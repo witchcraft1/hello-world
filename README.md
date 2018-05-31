@@ -2,4 +2,4 @@
 
 Hi everyone!
  
-I want share with you my first impressions. Github is cool, JavaScript too) Shemsedinov top and funny
+I want share with you my first impressions. Github is cool, JavaScript too) Shemsedinov top and funny!
